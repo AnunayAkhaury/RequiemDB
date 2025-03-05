@@ -4,7 +4,7 @@
     <ClCompile Include="C:\Users\anuna\Projects\RequiemDB\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\anuna\Projects\RequiemDB\src\kvstore.cpp">
+    <ClCompile Include="C:\Users\anuna\Projects\RequiemDB\src\requiemstore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

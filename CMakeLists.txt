@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 # Define sources
 set(SOURCES
     src/main.cpp
-    src/kvstore.cpp
+    src/requiemstore.cpp
 )
 
 # Create the executable

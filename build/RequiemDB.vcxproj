@@ -333,7 +333,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\anuna\Projects\RequiemDB\src\main.cpp" />
-    <ClCompile Include="C:\Users\anuna\Projects\RequiemDB\src\kvstore.cpp" />
+    <ClCompile Include="C:\Users\anuna\Projects\RequiemDB\src\requiemstore.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

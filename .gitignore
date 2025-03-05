@@ -1,0 +1,17 @@
+/build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.dll
+*.so
+*.a
+*.lib
+
+.vscode/
