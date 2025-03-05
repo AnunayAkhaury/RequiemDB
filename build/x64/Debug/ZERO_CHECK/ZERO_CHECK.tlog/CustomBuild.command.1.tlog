@@ -1,0 +1,10 @@
+^C:\USERS\ANUNA\PROJECTS\REQUIEMDB\BUILD\CMAKEFILES\9927A8E3AE3F809985B6AC9BF9807BB5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/anuna/Projects/RequiemDB -BC:/Users/anuna/Projects/RequiemDB/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/anuna/Projects/RequiemDB/build/RequiemDB.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

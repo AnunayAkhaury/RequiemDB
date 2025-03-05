@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anuna\Projects\RequiemDB\build\CMakeFiles\9927a8e3ae3f809985b6ac9bf9807bb5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EA902E05-A843-3A70-B745-2F9DEC207C4B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
